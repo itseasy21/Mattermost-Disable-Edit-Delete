@@ -1,0 +1,8 @@
+{
+  "id": $id$,
+  "name": "DIsable Edit Delete",
+  "version": $VERSION$,
+  "webapp": {
+    "bundle_path": $BUNDLE_PATH$
+  }
+}
