@@ -1,2 +1,5 @@
 # Mattermost Disable Edit Delete
- Mattermost Disable Edit Delete by Tokom SOftware
+
+To build simply run ./build a file called ./dist/custom_js.tar.gz will be created.
+
+Upload that plugin to Mattermost.
